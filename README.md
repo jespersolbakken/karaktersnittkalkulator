@@ -8,7 +8,7 @@ Fungerer ikke for å regne ut GPA, da må karakteren E fjernes, samt verdiene en
 
 
 
-Karakterverdier i utregningen:
+## Karakterverdier i utregningen:
 
 A = 5
 
@@ -23,7 +23,7 @@ E = 1
 F = 0
 
 
-Poengsum for utregning av snittkarakter
+## Poengsum for utregning av snittkarakter
 
 A 4.6 -> 5
 
