@@ -1,6 +1,6 @@
-# snittkalkulator
+# snittkalkulator i Python
 
-Enkel commandline applikasjon for å regne ut bokstav-karaktersnitt.
+Enkel commandline applikasjon for å regne ut bokstav-karaktersnitt skrevet i Python.
 
 Tar ikke hensyn til fag med forskjellige studiepoeng, alle karakterene vektes dermed likt.
 
