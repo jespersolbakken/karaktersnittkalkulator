@@ -1,12 +1,15 @@
 # snittkalkulator
-Enkel commandline applikasjon for å regne ut bokstav-karaktersnitt
 
-Tar ikke hensyn til fag med forskjellige studiepoeng, alle karakterene vektes dermed likt
+Enkel commandline applikasjon for å regne ut bokstav-karaktersnitt.
 
-Fungerer ikke for å regne ut GPA, da må karakteren E fjernes, samt verdiene endres et "hakk" ned
+Tar ikke hensyn til fag med forskjellige studiepoeng, alle karakterene vektes dermed likt.
+
+Fungerer ikke for å regne ut GPA, da må karakteren E fjernes, samt verdiene endres et "hakk" ned.
+
 
 
 Karakterverdier i utregningen:
+
 A = 5
 
 B = 4
